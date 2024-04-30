@@ -10,7 +10,7 @@
 1. Clone the repository.
 3. Install Node.js if not already installed.
 4. Run `npm i` to install dependencies.
-5. Run `npm start` to start the application. It will open on `localhost:3000`.
+5. Run `npm start` to start the application. It will open on `localhost:5173`.
 
 ## Backend Setup (aws_cdk)
 
