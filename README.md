@@ -30,3 +30,27 @@
 ## Configuration
 
 - Remember to fill the places where ----------- is found at the code with the correct info.
+
+Resources:
+- [Introduction to Root User Sign-in Tutorial](https://docs.aws.amazon.com/signin/latest/userguide/introduction-to-root-user-sign-in-tutorial.html)
+- [Creating IAM Users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html)
+- [AWS SDK for JavaScript v3 SSM Client](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/client/ssm/)
+- [AWS Lambda Java Handler](https://docs.aws.amazon.com/lambda/latest/dg/java-handler.html)
+- [AWS CDK S3 Deployment](https://docs.aws.amazon.com/cdk/api/v2/python/aws_cdk.aws_s3_deployment/README.html)
+- [AWS CDK Assets](https://docs.aws.amazon.com/cdk/v2/guide/assets.html)
+- [AWS S3 Upload File](https://docs.aws.amazon.com/quickstarts/latest/s3backup/step-2-upload-file.html)
+- [AWS CLI SSM Send Command](https://docs.aws.amazon.com/cli/latest/reference/ssm/send-command.html)
+- [AWS CLI Configure Files](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+- [AWS IAM Access Keys](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html?icmpid=docs_iam_console#Using_CreateAccessKey)
+- [AWS CDK Constructs](https://docs.aws.amazon.com/cdk/v2/guide/constructs.html)
+- [AWS CDK Security IAM](https://docs.aws.amazon.com/cdk/v2/guide/security-iam.html)
+- [AWS CDK Permissions](https://docs.aws.amazon.com/pt_br/cdk/v2/guide/permissions.html)
+- [AWS IAM Security Credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/security-creds.html)
+- [AWS CDK Hello World](https://docs.aws.amazon.com/cdk/v2/guide/hello_world.html)
+- [AWS CDK Working with Stacks](https://docs.aws.amazon.com/cdk/v2/guide/work-with.html)
+- [AWS Lambda Runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)
+- [AWS CDK Getting Started](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html#getting_started_bootstrap)
+- [AWS DynamoDB with AWS CDK](https://dynobase.dev/dynamodb-aws-cdk/#:~:text=With%20AWS%20CDK%2C%20you%20can,2%20properties%3A%20partitionKey%20and%20billingMode%20.&text=DynamoDB%20provides%202%20billing%20modes,the%20billingMode%20property%20to%20dynamodb.)
+- [Attach IAM Role Automatically to New VM (YouTube)](https://www.youtube.com/results?search_query=attach+iam+role+automatically+to+new+vm)
+- [How to Download S3 Files in EC2 (YouTube)](https://www.youtube.com/results?search_query=how+to+download+s3+files+in+ec2)
+- [Simple SSH NPM Package](https://www.npmjs.com/package/simple-ssh)
