@@ -1,9 +1,9 @@
 
 
 ## User Info
-User: fovus-test-user
-password: 7HoF7]q!
-sign-in URL: https://381491879255.signin.aws.amazon.com/console
+1. User: fovus-test-user
+2. password: 7HoF7]q!
+3. sign-in URL: https://381491879255.signin.aws.amazon.com/console
 
 ## Frontend Setup (vite)
 
